@@ -13,6 +13,6 @@ This repository contains the resources for creating and working with the Proteus
 
 **models** - contains the STL files used to print the Proteus case components.
 
-**pcbs** - contains schematics for supplemental PCBs used by the Proteus (for example, the front panel).
+**pcbs** - contains complete [KiCAD](https://www.kicad.org/) projects for supplemental PCBs used by the Proteus (for example, the front panel). Use KiCAD v6.0.11+.
 
-**vanity-plate** - contains instructions and a sample for creating an image used to etch the Proteus's front aluminum vanity plate.
+**vanity-plate** - contains instructions and a sample for creating an image used to etch the Proteus's front aluminum vanity plate and other samples that have been made available for public consumption by generous customers.

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "61301621821")(type "KiCad")(uri "${KIPRJMOD}/Symbols/61301621821.kicad_sym")(options "")(descr ""))
+  (lib (name "5055670571")(type "KiCad")(uri "${KIPRJMOD}/Symbols/5055670571.kicad_sym")(options "")(descr ""))
+  (lib (name "5055680571")(type "KiCad")(uri "${KIPRJMOD}/Symbols/5055680571.kicad_sym")(options "")(descr ""))
+  (lib (name "CH340E")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CH340E.kicad_sym")(options "")(descr ""))
+  (lib (name "217182-0001")(type "KiCad")(uri "${KIPRJMOD}/Symbols/217182-0001.kicad_sym")(options "")(descr ""))
+  (lib (name "USB3131-30-0230-A")(type "KiCad")(uri "${KIPRJMOD}/Symbols/USB3131-30-0230-A.kicad_sym")(options "")(descr ""))
+)
